@@ -54,6 +54,7 @@ const productSchema = new mongoose.Schema({
       "headphones",
       "beauty",
       "Home appliances",
+      "mobile",
     ],
   },
 });
